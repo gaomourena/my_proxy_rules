@@ -1,5 +1,4 @@
 # > YouTube
-USER-AGENT,YouTube*
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,withyoutube.com
 DOMAIN-SUFFIX,youtu.be
